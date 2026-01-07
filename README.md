@@ -154,3 +154,4 @@ Add the following line:
 5. Build result displayed in Jenkins
 
 ---
+<img src="JavaBuildOutput.png" width="600">
